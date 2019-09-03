@@ -1,4 +1,5 @@
 test: niuxianghui
+xianghui: test
 configserver:
     name: JHipster Registry config server
     status: Connected to the JHipster Registry config server, using https://github.com/jhipster/jhipster-registry-sample-config !
